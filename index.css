@@ -1,0 +1,32 @@
+body{
+	background-image:url(pa.jpg)
+}
+h1{
+	background:#1A5276;
+	font-size:30px;
+	color:#B7950B  ;
+	font-family: verdana;
+
+}
+h4{
+	color: #154360;  
+	font-family: verdana;
+}
+h5{
+	color:black ;
+	font-family: verdana;
+}
+
+
+a { 
+	width:10px;
+	height:10px;
+	font-size:10px;
+	}
+	.logo{
+	float:left;
+}
+.red-social{
+	float:right;
+}
+}
